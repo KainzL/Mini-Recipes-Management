@@ -1,0 +1,10 @@
+.recipe-image {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+
+.side-panel {
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
